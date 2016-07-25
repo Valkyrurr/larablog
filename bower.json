@@ -1,0 +1,21 @@
+{
+  "name": "Laravel Blog",
+  "description": "The Blog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/bower_dl",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "jquery": "1.9.1 - 2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.3",
+    "datatables": "^1.10.12",
+    "datatables-plugins": "^1.10.12"
+  }
+}
